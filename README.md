@@ -14,7 +14,8 @@ The purpose to create an employee card to manage and maintain on employees depar
 
 -[Questions](#questions)
 
-![Preview Image](/teamCards.png)
+![Preview Image](/managementsystem.png)
+![Preview Image](/managementsystem2.png)
 
 ## Installation
 npm installation requirements;
