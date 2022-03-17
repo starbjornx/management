@@ -2,7 +2,7 @@
 
 ## Description
 
-The purpose to create an employee card to manage and maintain on employees departments and roles.
+The purpose to create a database to manage and maintain employees departments and roles.
 
 ## Table of Contents
 
